@@ -20,3 +20,6 @@ This project is developed as the final project for the Artificial Intelligence c
 ## Technologies Used
 - **Python**: The core programming language for developing the chatbot.
 - **Transformer-based NLP Models**: Utilized for processing and answering user queries.
+
+## Dataset
+https://www.kaggle.com/datasets/gvaldenebro/cancer-q-and-a-dataset
